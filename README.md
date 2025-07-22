@@ -1,2 +1,28 @@
-# michael-wrights-literary-affidavit
-Public timestamp and declaration of authorship for the literary works of Michael Wrights.
+# Literary Affidavit – Michael Wrights
+
+## Declaration of Authorship, Cultural Sovereignty, and IP Protection
+
+This repository publicly records the authorship of all literary works created under the name **Michael Wrights** (also known as Jeff Chandeler Florent, Hai T’ut’-Ma’at, and Jungle).  
+The affidavit covers original works including *The Book of Tho’t*, *The Saga*, and related cultural, philosophical, and narrative content.
+
+---
+
+## 📄 Affidavit File
+
+- [Download PDF](./AFFIDAVIT%20OF%20AUTHORSHIP%20AND%20LITERARY%20OWNERSHIP.pdf)
+- **Date Signed**: 2025-07-23
+- **SHA-256 Hash**:  
+  `525d428b9faebe51c19b01c7336726792fe800e6e11eb1d67df271343fca003f`
+
+---
+
+## 🔐 Legal Notice
+
+All rights reserved under:
+- UCC 1-308  
+- Common Law  
+- Natural Law  
+- The Florent Estate Private Trust  
+- International Copyright (Berne Convention & CDPA 1988)
+
+Any unauthorized use, reproduction, or derivative creation is a breach of this affidavit and subject to legal, commercial, and spiritual remedies.
